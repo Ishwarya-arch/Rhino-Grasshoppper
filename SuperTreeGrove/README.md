@@ -5,7 +5,7 @@
 
 ---
 
-## Completed Model
+## 3D Model
 ![](2.jpg)
 
 ---
