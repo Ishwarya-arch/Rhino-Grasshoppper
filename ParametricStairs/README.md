@@ -1,2 +1,3 @@
-# Rhino-Grasshoppper
-Rhino- Grasshopper works.
+# Parametric Staircase
+A parametric staircase derived from a contour.
+
