@@ -5,4 +5,4 @@
 ---
 
 ## 1. Parametric Stairs from a contour
-![](4.jpg)
+![](ParametricStairs.gif)
