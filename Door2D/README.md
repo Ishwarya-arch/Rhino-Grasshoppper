@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/53228914/219414155-17b29198-f812-4478-9e31-e01bf47ce0e5.png" width=160>
+
+
 ### Door2D Plugin
 
 * Door2D as the name suggests is a plugin mainly for Architects working with 2D floor plan drawings. 
