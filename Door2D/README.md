@@ -9,5 +9,5 @@ Position/ Origin of the door;
 Orientation of the Door on the plan;
 Width and Length of the door frames;
 Rotation Angle of the door;
-![](DoorPlacementInPlans.gif)
+![](Door2D.gif)
 
