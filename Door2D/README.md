@@ -1,10 +1,11 @@
 ### Door2D Plugin
 
-* A plugin that creates a 2D door that can be used on floor plan drawings. 
+* Door2D as the name suggests is a plugin mainly for Architects working with 2D floor plan drawings. 
+The plugin aims to fit door symbols in plan drawings with different scales, dimensions and other attributes.  
 
 ---
 
-## 1. The plugin takes input parameters- 
+## 1. The plugin takes into consideration the following attributes- 
 Position/ Origin of the door;
 Orientation of the Door on the plan;
 Width and Length of the door frames;
