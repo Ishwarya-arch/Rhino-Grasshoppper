@@ -15,5 +15,5 @@ Rotation Angle of the door;
 
 ## 2. To create a door in the floor plan, select the origin point/position of the door opening and the respective parameters to orient the door according to the requirements.
 
-![](1.png) ![](2.png)
+![](1.png,2.PNG)
 
