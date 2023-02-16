@@ -9,5 +9,13 @@ Position/ Origin of the door;
 Orientation of the Door on the plan;
 Width and Length of the door frames;
 Rotation Angle of the door;
+
+
 ![](Door2D.gif)
+
+##To create a door in the floor plan, select the origin point/position of the door opening and the respective parameters to orient the door according to the requirements.
+
+![](1.png)
+
+![](2.png)
 
