@@ -6,3 +6,7 @@ Made entirely using grasshopper scripts and the basic build of the bench in Rhin
 
 ## 1. Parametric Bench from a basic form.
 ![](ParametricBench.gif)
+
+![](3.jpg)
+
+![](2.jpg)
