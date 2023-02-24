@@ -1,24 +1,22 @@
-<img src="https://user-images.githubusercontent.com/53228914/219414155-17b29198-f812-4478-9e31-e01bf47ce0e5.png" width=160>
+<img src="https://github.com/Ishwarya-arch/Rhino-Grasshoppper/blob/main/TreeD/Logo.png" width=160>
 
 
-### Door2D Plugin
+### TreeD Plugin
 
-* Door2D as the name suggests is a plugin mainly for Architects working with 2D floor plan drawings. 
-The plugin aims to fit door symbols in plan drawings with different scales, dimensions and other attributes.  
+* TreeD is a plugin that emerged out of the idea to place landscape elements in a "controlled random" environment. The plugin requires a path that guides the placement/clustering of the landscape. Attributes like space jitter, path jitter and rotation helps create an irregular movement and variation in the placement of the trees/objects.
 
 ---
 
-## 1. The plugin takes into consideration the following attributes- 
-Position/ Origin of the door;
-Orientation of the Door on the plan;
-Width and Length of the door frames;
-Rotation Angle of the door;
+<img src="TreeD_Jitter.gif" width=450>
+
+### The plugin takes the following attributes- 
+* Curve or Path: This defines the guideline for the objects to follow. 
+* Spacing: The spacing between the trees/plants in the landscape.
+* Space Jitter: This is factor that helps create variations in the spacing between the trees.
+* Path Jitter: The number set to this attribute creates random movement outside of the guided path.
+* Rotation: Rotation helps change the orientation of the trees to help bring variation in the elevation.
+* Trees: Connecting multiple tree/landscape object/geometry of choice helps create more variations in the output.
 
 
-![](Door2D.gif)
+![](TreeD_Perspective.jpg)
 
-## 2. To create a door in the floor plan, select the origin point/position of the door opening and the respective parameters to orient the door according to the requirements.
-
-![](1.png)
-
-![](2.png)
