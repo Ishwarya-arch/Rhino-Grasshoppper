@@ -5,7 +5,7 @@
 
 * Download Door2D 2.0 plugin here: https://github.com/Ishwarya-arch/Rhino-Grasshoppper/blob/main/Door2D/Door2D_1.ghuser
 
-![](Door2D.gif)
+![](Door2D_2.gif)
 
 * Door2D, as the name suggests, is a specialized plugin designed to meet the unique needs of architects working with 2D floor plan drawings. 
 * This powerful tool is specifically engineered to accurately and seamlessly integrate door symbols into plan drawings, regardless of varying scales,       dimensions, or other attributes. 
